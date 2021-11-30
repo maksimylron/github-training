@@ -5,3 +5,5 @@ Revisiting git-github workflow.
 
 ## Edits made on remote
 This is a new line.
+
+This is another new line.
